@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Webinar11042020Weateher</string>
+    <string name="jakarta">Jakarta</string>
+    <string name="sky_is_clear">SKY IS CLEAR</string>
+    <string name="humidity_59">Humidity: 59%</string>
+    <string name="pressure_987_hpa">Pressure: 987 hPa</string>
+    <string name="enter_city_name">Enter City Name</string>
+    <string name="indonesia">Indonesia</string>
+
+    <string name="sky_format">Sky Is %1$s</string>
+    <string name="humidity_format">Humidity: %1$d</string>
+    <string name="pressure_format">Pressure: %1$d hPa</string>
+    <string name="temperature_format">%1$s \u2103</string>
+
+</resources>
